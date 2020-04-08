@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 122.6 548.2" style="enable-background:new 0 0 122.6 548.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#AFE2E3;}
+	.st1{fill:#FFFFFF;filter:url(#Adobe_OpacityMaskFilter);}
+	.st2{mask:url(#mask0_1_);}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#0B007B;}
+	.st5{fill:#22DC9E;}
+</style>
+<g id="Group_34">
+	<g id="Group_38">
+		<path id="Fill_1" class="st0" d="M62.2,487v61.2H1C1,514.3,28.4,486.9,62.2,487L62.2,487z"/>
+		<g id="Group_5">
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="61.4" y="487.3" width="61.2" height="60.9">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="61.4" y="487.3" width="61.2" height="60.9" id="mask0_1_">
+				<path id="Clip_4_1_" class="st1" d="M61.4,487.3h61.2v60.9H61.4V487.3z"/>
+			</mask>
+			<g class="st2">
+				<path id="Fill_3" class="st3" d="M122.6,548.2H61.4v-60.9C95.2,487.3,122.6,514.5,122.6,548.2L122.6,548.2z"/>
+			</g>
+		</g>
+		<path id="Fill_6_Copy" class="st0" d="M120.8,61.2H60.5V0C93.8,0,120.8,27.4,120.8,61.2L120.8,61.2z"/>
+		<path id="Fill_8_Copy" class="st4" d="M60.3,62.2H0V1C33.3,1,60.3,28.4,60.3,62.2L60.3,62.2z"/>
+		<path id="Fill_22_Copy" class="st3" d="M0.2,61.2l120.6,0c0,33.3-27,60.3-60.3,60.3C27.2,121.5,0.2,94.5,0.2,61.2z"/>
+		<path id="Oval" class="st0" d="M60.8,243c33.6,0,60.8-27.2,60.8-60.8s-27.2-60.8-60.8-60.8C27.2,121.5,0,148.7,0,182.2
+			S27.2,243,60.8,243z"/>
+		<path id="Fill_10" class="st0" d="M1,243h60.3v61.2C28,304.2,1,276.8,1,243L1,243z"/>
+		<path id="Fill_12" class="st5" d="M122.5,304.2l-61.2,0V243C95.1,242.9,122.6,270.3,122.5,304.2L122.5,304.2z"/>
+		<g id="Group_39">
+			<path id="Fill_17" class="st4" d="M122.4,426.4L0.9,427c0.1-33.6,27.4-60.9,61-61C95.4,365.8,122.5,392.9,122.4,426.4z"/>
+			<path id="Fill_19" class="st5" d="M122.5,425.8c-0.1,33.5-27.5,60.9-61,61C27.9,487,0.9,459.9,1,426.4L122.5,425.8z"/>
+		</g>
+		<path id="Fill_22" class="st3" d="M1.9,304.2l120.6,0c0,33.3-27,60.3-60.3,60.3C28.9,364.5,1.9,337.5,1.9,304.2z"/>
+	</g>
+</g>
+</svg>
